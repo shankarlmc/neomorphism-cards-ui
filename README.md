@@ -1,8 +1,7 @@
 # Neomorphism Cards UI
 
-```
 Creating a neumorphic interface with CSS is seemingly as easy as applying a regular box-shadow property on any element, but it’s more nuanced than that. The distinctiveness of a neumorphic UI comes from using multiple box-shadow and background-color values to achieve different types of effects and variations.
-```
+
 ### Following options can be adjusted:
 
 - Horizontal offset: 
